@@ -3,6 +3,8 @@
 <h4>Fetch a total of 4 gallons of water from a stream using only an unmarked 5 gallon bucket, and an unmarked 3 gallon bucket in less than 15 steps.</h4>
 <h2>Expected Results</h2>
 <img src="output_2.png" alt="alt text" />
+<h2>How to use</h2>
+<h4> Download zip file or clone on your local system using command below </h4>
 <h2>Technology Used</h2>
 <h4>Uses version 3.12 of python</h4>
 <h4>Unittest library for testing</h4>
