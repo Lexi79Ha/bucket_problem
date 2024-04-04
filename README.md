@@ -5,7 +5,7 @@
 <img src="output_2.png" alt="alt text" />
 <h2>Technology Used</h2>
 <h4>Uses version 3.12 of python</h4>
-<h4>No libraries will need to be imported to run this program</h4>
+<h4>Unittest library for testing</h4>
 <h2>Author</h2>
 <h4>Alexis Harris</h4>
 <h4>Email: lmh.mo.6@gmail.com</h4>
