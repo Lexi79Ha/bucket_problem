@@ -4,7 +4,8 @@
 <h2>Expected Results</h2>
 <img src="output_2.png" alt="alt text" />
 <h2>How to use</h2>
-<h4> Download zip file or clone on your local system using command below </h4>
+<h4> Download zip file or clone on your local system using command line prompt below </h4>
+<img src="command.png" alt="alt text" />
 <h2>Technology Used</h2>
 <h4>Uses version 3.12 of python</h4>
 <h4>Unittest library for testing</h4>
