@@ -9,6 +9,7 @@
 <img src="output_2.png" alt="alt text" />
 <h2>How to use</h2>
 <h4> Download zip file or clone on your local system using command line prompt below </h4>
+<h4> Run Bucket_problem.py</h4>
 <img src="command.png" alt="alt text" />
 <h2> How to test</h2>
 <h4> Run test.py</h4>
