@@ -1,7 +1,7 @@
 # This script uses python 3.12 to solve the 4 gallon bucket problem
 # The parameters of the problem is that you have to fetch exactly 4 gallons of water from a stream using only an unmarked 5 gallon bucket, and an unmarked 3 gallon bucket in less than 15 steps.
-# This program uses a while not loop under the conditions that "Five_gallon_bucket = 4 and the three_gallon_bucket = 3"
-# The steps of the loop are as followed: Fill five_gallon_bucket, Pour five_gallon_bucket into the three gallon bucket, then empty three gallon bucket once it reached max capacity, this continues until all conditions are meant
+# This program uses a while not loop under the conditions that "Five_gallon_bucket = 4 and the three_gallon_bucket = 0"
+# The steps of the loop are as followed: Fill five_gallon_bucket, Pour five_gallon_bucket into the three gallon bucket, then empty three gallon bucket once it reached max capacity, this continues until all conditions are satisfied
 def measure_water():
     three_gallon_bucket = 0 # Buckets start out empty
     five_gallon_bucket = 0 # Buckets start out empty
