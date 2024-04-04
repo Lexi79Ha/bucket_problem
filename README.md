@@ -11,7 +11,7 @@
 <h4> Download zip file or clone on your local system using command line prompt below </h4>
 <img src="command.png" alt="alt text" />
 <h2> How to test</h2>
-<h4> Run test.py on code editor</h4>
+<h4> Run test.py</h4>
 <h4> Unittest library is built into python so there is no need to install it</h4>
 <h2>Technology Used</h2>
 <h4>Uses version 3.12 of python</h4>
