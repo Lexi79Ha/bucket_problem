@@ -1,6 +1,6 @@
 <h1>The 4-gallon Bucket Problem</h1>
 <h3>Problemscape</h3>
-<h4>Create a program that can solve the 4-gallon jub riddle. The conditions of the riddle is to fetch a total of 4 gallons of water from<br> a stream using only an unmarked 5 gallon bucket, and an unmarked 3 gallon bucket in less than 15 steps.</h4>
+<h4>Create a program that can solve the 4-gallon jub riddle. The conditions of the riddle is to fetch a total of 4 gallons of water from a stream using only an unmarked 5 gallon bucket, and an unmarked 3 gallon bucket in less than 15 steps.</h4>
 <h4> A video illustrations of this riddle and the steps to finding a solution can be found here <br>(https://www.youtube.com/watch?v=qtg9pSJsRSg) </h4>
 <h3>Solution</h3>
 <h4>This program uses a while not loop under the conditions that "Five_gallon_bucket = 4 and the three_gallon_bucket = 0"</h4>
